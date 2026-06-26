@@ -22,4 +22,4 @@
 - **Authentication:** Passport.js
 
 ---
-*Developed by Sriganesh as a Major Project. All Rights Reserved.*
+
